@@ -2,11 +2,9 @@ package com.vas.githubsearch.data
 
 import android.content.Context
 import android.util.Log
-import androidx.lifecycle.LiveData
 import com.vas.githubsearch.base.BaseApiRepository
 import com.vas.githubsearch.data.api.GitHubSearchService
 import com.vas.githubsearch.data.local.ProfileDao
-import com.vas.githubsearch.data.model.ProfileData
 import com.vas.githubsearch.util.ApiResult
 import com.vas.githubsearch.util.NetworkStatusHelper
 import dagger.hilt.android.qualifiers.ApplicationContext

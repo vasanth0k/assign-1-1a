@@ -14,7 +14,6 @@ import android.webkit.WebViewClient
 import android.widget.Toast
 import androidx.activity.OnBackPressedCallback
 import androidx.navigation.fragment.navArgs
-import com.vas.githubsearch.R
 import com.vas.githubsearch.databinding.FragmentProfileDetailsBinding
 import com.vas.githubsearch.util.dismissLoadingDialog
 import com.vas.githubsearch.util.showLoadingDialog

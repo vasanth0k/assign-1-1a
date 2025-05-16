@@ -1,6 +1,5 @@
 package com.vas.githubsearch.data.api
 
-import com.vas.githubsearch.data.model.ProfileData
 import com.vas.githubsearch.data.model.ProfileResponse
 import retrofit2.Response
 import retrofit2.http.GET

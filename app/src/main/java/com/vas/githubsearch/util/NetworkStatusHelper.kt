@@ -3,7 +3,6 @@ package com.vas.githubsearch.util
 import android.content.Context
 import android.net.ConnectivityManager
 import android.net.NetworkCapabilities
-import dagger.hilt.android.qualifiers.ApplicationContext
 
 
 object NetworkStatusHelper {
